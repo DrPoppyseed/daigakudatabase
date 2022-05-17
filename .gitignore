@@ -7,6 +7,7 @@
 
 # production
 **/build
+**/target
 
 # machine specific
 **/.DS_Store
